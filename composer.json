@@ -1,5 +1,5 @@
 {
-    "name": "codesoclock/alfapay-php",
+    "name": "SoftFamus/AlfaPay",
     "description": "Alfa Pay is Bank Alfalah Payment gateway package",
     "keywords": [
         "codesoclock",
@@ -7,7 +7,7 @@
         "bank alfalah",
         "pakistan"
     ],
-    "homepage": "https://github.com/codesoclock/alfapay-php",
+    "homepage": "https://github.com/SoftFamus/AlfaPay",
     "license": "MIT",
     "type": "library",
     "authors": [
