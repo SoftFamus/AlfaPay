@@ -10,7 +10,7 @@ This is Bank Alfalah payment gateway package to pay using Alfa Wallet, Bank Acco
 You can install the package via composer:
 
 ```bash
-composer require codesoclock/alfapay-php
+composer require SoftFamus/AlfaPay
 ```
 
 ## Set .env configurations
@@ -73,7 +73,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ### Security
 
-If you discover any security related issues, please email naeemins@gmail.com instead of using the issue tracker.
+If you discover any security-related issues, please email softfamus@gmail.com instead of using the issue tracker.
 
 ## Credits
 
